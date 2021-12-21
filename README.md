@@ -7,8 +7,6 @@ It is a Basic Banking System for making transactions between users. It can trans
 Front-end: HTML, CSS, JavaScript  
 Back-end: PHP  
 Database: MySQL  
-Hosting platform: https://infinityfree.net/  
 
 Flow: Home Page > View all Customers > Select and View one Customer > Transfer Money > Select customer to transfer to > View all Customers .
 
-Website Link: http://tsf-banksystem.epizy.com/index.php
